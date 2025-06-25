@@ -87,7 +87,7 @@ The model performs with high accuracy on various drone image datasets, achieving
 
 ## 🧑‍💻 Author
 
-**Sasidhar Sai**
+**Akhil Chava**
 Passionate about AI, Computer Vision, and real-world applications of deep learning.
 
 ## 🪪 License
